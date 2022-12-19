@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 100px;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+
+}
+
+button:hover {
+    background-color: rgb(34, 18, 34);
+    color: white;
+}
+
+.start {
+    background-color: rgb(10, 156, 10);
+    font-size: 20px;
+}
+
+.pause {
+    background-color: grey;
+    font-size: 20px;
+}
+
+.stop {
+    background-color: red;
+    font-size: 20px;
+}
+
+.img {
+    margin-top: 15px;
+
+}
